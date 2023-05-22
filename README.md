@@ -1,2 +1,2 @@
 # THESIS
-FIles about my thesis: Analysis of clue-guided scene text image super-resolution method
+FIles about my thesis:scene text image super-resolution guided by HOG
